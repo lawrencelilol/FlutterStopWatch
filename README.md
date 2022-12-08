@@ -1,6 +1,5 @@
-# flutter_application_1
+# A Stopwatch Mobile App developed with flutter
 
-A new Flutter project.
 
 ## Getting Started
 
